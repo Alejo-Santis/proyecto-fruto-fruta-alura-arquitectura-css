@@ -1,0 +1,8 @@
+.footer__icon {
+    margin-right: 1.25rem;
+    transition: all 0.25s ease-in-out;
+}
+
+.footer__icon:hover {
+    opacity: 0.75;
+}

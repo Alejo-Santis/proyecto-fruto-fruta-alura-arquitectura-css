@@ -1,0 +1,12 @@
+.footer__descripcion {
+    display: flex;
+    font-size: 2rem;
+    color: #8C8888;
+}
+
+@media screen and (min-width: 768px) {
+    .footer__titulo {
+        padding: 1.5625rem;
+        margin-left: 5rem;
+    }
+}
